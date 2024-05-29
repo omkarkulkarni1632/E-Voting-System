@@ -1,6 +1,6 @@
 # E-Voting-System
- E-Voting System
 Overview
+
 Welcome to the E-Voting System project! This project is developed using PHP, HTML, CSS, JavaScript, and Bootstrap. It provides a digital platform for conducting secure and efficient elections. The system is designed to facilitate voter registration, vote casting, and results tallying, ensuring transparency and ease of use.
 
 Features
